@@ -3,7 +3,7 @@ Official PyTorch implementation of the paper [LRENet: A Location-Related Enhance
 
 # Architecture
 
-![LRENet](https://github.com/HUI623/FRAttU-Net/blob/main/FRAttU-Net%20architecture.png)
+![LRENet](https://github.com/HUI623/Loss_RLM/blob/main/Architecture.png)
 ## 1.Requirements
 ```bash
 # Environment Setup  
