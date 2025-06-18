@@ -28,7 +28,7 @@ read_liver_data_save_image.py
 
 ## 4. Training
 ```bash
-python train_res.py
+python train_net.py
 ```
 ## 5. Testing
 ```bash
